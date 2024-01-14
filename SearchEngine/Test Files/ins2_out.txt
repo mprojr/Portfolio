@@ -1,0 +1,4 @@
+(NOT the) AND (NOT of)-->[3, 6]
+skies-->[]
+has AND what-->[4]
+(NOT guest) OR (NOT coffee)-->[1, 2, 3, 4, 5, 6, 7]

@@ -1,0 +1,5 @@
+a-->[1, 2, 3]
+will AND a-->[2, 3]
+fun OR pristine-->[3, 4]
+(NOT be) AND a-->[1, 2]
+engine-->[2]

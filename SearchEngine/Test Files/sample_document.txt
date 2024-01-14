@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+Foxes are very clever and quick.
+Dogs are loyal and brave.
+The dog chased the fox.

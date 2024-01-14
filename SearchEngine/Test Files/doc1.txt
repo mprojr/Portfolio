@@ -1,0 +1,4 @@
+This is just a test.
+We will build a search engine.
+It will be a bit pristine, but trust me, it's fun.
+Some fun but not it will still be graded.

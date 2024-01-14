@@ -1,0 +1,6 @@
+fox
+dog
+quick AND brown
+fox OR dog
+NOT lazy
+quick NOT brown
