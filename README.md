@@ -17,7 +17,7 @@ To run this program, you need a C++ compiler installed on your system. You can c
 Usage:
 To use this application, compile the source code and run the resulting executable with the following command-line arguments -
 
-./TextSearchApp <Text_Input_File> <Instruction_Input_File> <Hash_Matrix_Output_File> <Instruction_Result_File>
+./ProjectName <Text_Input_File> <Instruction_Input_File> <Hash_Matrix_Output_File> <Instruction_Result_File>
 
 Text_Input_File: The path to the text file you want to process.
 Instruction_Input_File: The path to the file containing search instructions.
